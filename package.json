@@ -10,6 +10,50 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "synthwave",
+    "synth",
+    "wave",
+    "practical",
+    "practical-synth",
+    "practical synth",
+    "practicalsynth",
+    "practical synthwave",
+    "practicalsynthwave",
+    "practical synth wave",
+    "dark",
+    "dark theme",
+    "dark-theme",
+    "darktheme",
+    "2077",
+    "cyberpunk",
+    "cyberpunk 2077",
+    "vaporwave",
+    "night",
+    "night theme",
+    "midnight",
+    "midnight theme",
+    "midnight-theme",
+    "midnight purple",
+    "midnight-purple",
+    "midnightpurple",
+    "purple",
+    "purple theme",
+    "purple-theme",
+    "purpletheme",
+    "dark purple",
+    "dark-purple",
+    "darkpurple",
+    "dark purple theme",
+    "dark-purple-theme",
+    "darkpurpletheme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Valx01P/practical-synth"
+  },
   "contributes": {
     "themes": [
       {
