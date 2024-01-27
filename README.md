@@ -2,8 +2,8 @@
 
 ## Seriously read it, to make it as cool as the previews!
 
-![Preview](./practical-synth-ex.png)
-![Preview](./practical-synth-ex-2.png)
+![image.png](https://i.ibb.co/gtjS7jh/practical-synth-ex.png)
+![image.png](https://i.ibb.co/LkKbFX0/practical-synth-ex-2.png)
 
 ## Basic Description:
 
@@ -14,6 +14,8 @@ A practical synth wave color theme for coding, no blinding highlighter text, no 
 To get the most out of this theme then I highly recommend you also get the extension
 
 ### "background"
+
+![image.png](https://i.ibb.co/R9NfDZt/background-extension.png)
 
 and then open up your 'settings.json' for vscode, and if you don't know how to do that, then just go to the top
 search bar on vscode and type
@@ -47,7 +49,7 @@ to add a really cool image that will go great with the theme and truly complete 
 Now if you don't do this then you won't have the complete visual AWESOMENESS that I intended for this theme and you'll just
 have the basic version, which looks nice, but it could definitely look cooler if you follow my instructions!
 
-![Preview](./practical-synth-basic-without-recommended.png)
+![image.png](https://i.ibb.co/FwLVPQK/practical-synth-basic-without-recommended.png)
 
 If you followed my recommendations then congrats, I hope you like the theme as much as I do!
 And for those interested, here are some useful links,

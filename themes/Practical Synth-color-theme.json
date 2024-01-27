@@ -1920,9 +1920,9 @@
     "gitDecoration.conflictingResourceForeground": "#6c6cc4",
     "gitDecoration.deletedResourceForeground": "#c74e39",
     "gitDecoration.ignoredResourceForeground": "#8c8c8c",
-    "gitDecoration.modifiedResourceForeground": "#fba6f6",
+    "gitDecoration.modifiedResourceForeground": "#e2c08d", //fba6f6 pink alt
     "gitDecoration.stageDeletedResourceForeground": "#c74e39",
-    "gitDecoration.stageModifiedResourceForeground": "#f98df2",
+    "gitDecoration.stageModifiedResourceForeground": "#e2c08d", //f98df2 pink alt
     "gitDecoration.submoduleResourceForeground": "#8db9e2",
     "gitDecoration.untrackedResourceForeground": "#73c991",
 

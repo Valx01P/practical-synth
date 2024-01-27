@@ -1,8 +1,8 @@
 {
   "name": "practical-synth",
-  "displayName": "Practical Synth",
+  "displayName": "Practical Synth Theme",
   "description": "A practical synth wave color theme for coding, no blinding highlighter text, no distracting use or overuse of colors, my solution to a visually pleasing synth wave theme to code with (preferably in the dark)",
-  "version": "0.0.1",
+  "version": "0.0.7",
   "publisher": "PabloValdes019",
   "engines": {
     "vscode": "^1.85.0"
@@ -62,5 +62,13 @@
         "path": "./themes/Practical Synth-color-theme.json"
       }
     ]
-  }
+  },
+  "images": [
+    "practical-synth-abstract-image-logo.png",
+    "practical-synth-basic-without-recommended.png",
+    "practical-synth-ex.png",
+    "practical-synth-ex-2.png",
+    "background-extension.png"
+  ],
+  "icon": "practical-synth-abstract-image-logo.png"
 }
